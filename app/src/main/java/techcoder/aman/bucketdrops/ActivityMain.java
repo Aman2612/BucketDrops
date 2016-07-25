@@ -25,5 +25,6 @@ public class ActivityMain extends AppCompatActivity {
                 .load(R.drawable.background)
                 .centerCrop()
                 .into(background);
+        //test
     }
 }
