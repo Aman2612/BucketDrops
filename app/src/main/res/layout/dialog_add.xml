@@ -24,6 +24,7 @@
     <EditText
         android:layout_width="match_parent"
         android:singleLine="true"
+        android:inputType="textVisiblePassword"
         android:layout_height="wrap_content"
         android:id="@+id/et_drop"
         android:layout_below="@+id/tv_title"
